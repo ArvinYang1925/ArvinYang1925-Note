@@ -1,0 +1,18 @@
+# macOS 系統檔
+.DS_Store
+
+# VSCode 設定檔
+.vscode/
+
+# Node.js（萬一未來用了 Hexo 或其他工具）
+node_modules/
+npm-debug.log*
+
+# 部落格發佈產物（未來用 Hexo 時）
+public/
+db.json
+
+# 作業系統暫存檔
+Thumbs.db
+ehthumbs.db
+Desktop.ini
